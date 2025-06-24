@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# #### NEHA SHARMA  - ROLL_NO 230984036
 
 # ##### IR system based on the vector space model
 
